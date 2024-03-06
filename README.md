@@ -6,7 +6,7 @@ Simply clone the repo using below steps:
 - Copy the URL for the repository. Under "HTTPS".
 - Open Git Bash or any terminal.
 - Change the current working directory to the location where you want the cloned directory.
-- Type git clone, and then paste the URL you copied earlier. git clone https://github.com/jin-r10/preloader-website-reveal.git
+- Type git clone, and then paste the URL you copied earlier. git clone https://github.com/jin-r10/page-transition.git
 - Enter to create your local clone.
 
  ## To run
